@@ -19,6 +19,6 @@
 
 
 
-[linkedin]: https://linkedin.com/in/cyril
+[linkedin]: https://linkedin.com/in/cyril-dery
 
 
