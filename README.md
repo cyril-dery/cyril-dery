@@ -12,7 +12,7 @@
 - <b>VPN Setup</b>
   -[How VPNs Affect IP Addresses](https://github.com/cyril-dery/vpn)
 - <b>Final Project</b>
-  -[Practical Assessment](https://github.com/cyril-dery/FinalProject)
+  -[Practical Assessment](https://github.com/cyril-dery/CourseProject)
 
 <h2>🤳Connect with me:</h2>
 
