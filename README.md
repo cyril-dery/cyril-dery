@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cyril-dery/azure-network-protocols)
 - <b>VPN Setup</b>
   -[How VPNs Affect IP Addresses](https://github.com/cyril-dery/vpn)
+-[Practical Assessment](https://github.com/cyril-dery/FinalProject)
 
 <h2>🤳Connect with me:</h2>
 
